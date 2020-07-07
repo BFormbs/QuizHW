@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(25, 40, 250)
+}
+.btnColor {
+    background-color: rgb(25, 40, 250)  !important;
+}
+
+button {
+    background-color: rgb(25, 40, 250) ;
+    border-color: rgb(25, 40, 250) ;
+    color: white;
+    border-radius: 10px;
+}
+
+#choice-response {
+    color: gray;    
+}
+
+#instructions {
+    color: dimgray;
+}
+
+.container {
+    margin-top: 10%;
+
+    padding: 10px;
+}
+
